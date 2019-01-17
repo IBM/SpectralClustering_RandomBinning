@@ -30,13 +30,6 @@ Please cite our work if you like or are using our codes for your projects! Let m
 
 Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia and Charu Aggarwal, "Scalable Spectral Clustering Using Random Binning Features",, KDD'18.
 
-@article{wu2018scalable,
-  title={Scalable Spectral Clustering Using Random Binning Features},
-  author={Wu, Lingfei and Chen, Pin-Yu and Yen, Ian En-Hsu and Xu, Fangli and Xia, Yinglong and Aggarwal, Charu},
-  journal={arXiv preprint arXiv:1805.11048},
-  year={2018}
-}
-
 @InProceedings{wu2018scalable, <br/>
   title={Scalable Spectral Clustering Using Random Binning Features}, <br/>
   author={Wu, Lingfei and Chen, Pin-Yu and Yen, Ian En-Hsu and Xu, Fangli and Xia, Yinglong and Aggarwal, Charu}, <br/>
