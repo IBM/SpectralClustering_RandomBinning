@@ -28,7 +28,7 @@ To generate the WME for your NLP applications, you need:
 # How To Cite The Codes
 Please cite our work if you like or are using our codes for your projects! Let me know if you have any questions: lwu at email.wm.edu.
 
-Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia and Charu Aggarwal, "Scalable Spectral Clustering Using Random Binning Features",, KDD'18.
+Lingfei Wu, Pin-Yu Chen, Ian En-Hsu Yen, Fangli Xu, Yinglong Xia and Charu Aggarwal, "Scalable Spectral Clustering Using Random Binning Features", KDD'18.
 
 @InProceedings{wu2018scalable, <br/>
   title={Scalable Spectral Clustering Using Random Binning Features}, <br/>
